@@ -1,3 +1,6 @@
+This little exercise was part of my studies. 
+In addition to move mario to the left and to the right, I added a jumping function.
+
 # Features:
 
 * Walk & Single Jump
