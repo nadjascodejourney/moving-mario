@@ -6,3 +6,16 @@ body {
   margin: 0;
   background-color: #ffffff;
 }
+
+/* Center the headline */
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  color: #333;
+}
+
+p {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #333;
+}
